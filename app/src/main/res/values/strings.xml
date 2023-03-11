@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">submission-app</string>
+    <string name="item_name">Nama Item</string>
+    <string name="item_price">Harga Item</string>
+    <string name="item_description">Deskripsi Item</string>
+    <string name="title_spec">Spesifikasi :</string>
+    <string name="item_specification">Spesifikasi</string>
+    <string name="share">Bagikan</string>
+    <string name="about">Tentang Saya</string>
+
+    <string-array name="data_name">
+        <item>Xiaomi Redmi 9C</item>
+        <item>Xiaomi Poco M3</item>
+        <item>Xiaomi Redmi 9T</item>
+        <item>Xiaomi Mi 11 Lite</item>
+        <item>Xiaomi Redmi Note 10</item>
+        <item>Xiaomi Redmi Note 10S</item>
+        <item>Xiaomi Redmi Note 10 Pro</item>
+        <item>Xiaomi Poco X3 Pro</item>
+        <item>Samsung Galaxy M12</item>
+        <item>Samsung Galaxy A32</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>~Rp1.350.000</item>
+        <item>~Rp1.799.000</item>
+        <item>~Rp1.900.000</item>
+        <item>~Rp3.799.000</item>
+        <item>~Rp2.330.000</item>
+        <item>~Rp2.775.000</item>
+        <item>~Rp3.435.000</item>
+        <item>Rp3.499.000 – Rp3.990.000</item>
+        <item>~Rp1.699.000</item>
+        <item>~Rp3.349.000</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Xiaomi selalu memberikan opsi smartphone terjangkau dengan fitur-fitur yang mumpuni. Seri Redmi 9C ini memiliki tiga buah kamera belakang dan RAM yang cukup besar yaitu 4 GB. Kapasitas baterai yang cukup besar juga membuat berbagai aktivitas harian dapat berjalan lancar tanpa takut kehabisan baterai. Desainnya cukup apik dengan varian warna Midnight Blue, Sunrise Orange, dan Twilight Blue yang terbuat dari plastik doff dengan tekstur garis-garis.</item>
+        <item>Produsen HP yang satu ini seringkali menyita perhatian dengan ponsel yang dirilisnya. Xiaomi Poco M3 memiliki sebutan The New Entry Level Killer dengan harga yang cukup terjangkau yaitu 1 jutaan. Baterai berkapasitas jumbo dengan bobot yang ringan membuat ponsel ini banyak diburu ditambah dengan kamera belakang sebesar 48 MP. Kualitas foto juga jernih dan memiliki kualitas warna yang bagus. Sebagai ponsel satu jutaan, Xiaomi Poco M3 memiliki keunggulan karena memiliki resolusi layar full HD+ saat ponsel selevel masih banyak yang HD+.</item>
+        <item>Xiaomi Redmi 9T merupakan ponsel entry level dengan kualitas baik yang dijual dengan harga terjangkau. Dengan penyimpanan internal 128 GB dan RAM sebesar 6 GB, ponsel ini memiliki RAM besar tanpa khawatir lag saat membuka aplikasi cukup banyak. Desain bergaris-garis di bodi belakang cukup menarik perhatian karena tidak membuat licin atau adanya noda bekas sidik jari. Xiaomi Redmi 9T dilengkapi dengan lensa ultra lebar, kamera fokus dekat, dan kamera untuk pengambilan hasil foto bokeh. Respons shutter dari ponsel ini sangat baik tanpa adanya lag saat mengambil foto.</item>
+        <item>Xiaomi menambah Mi 11 Series dengan versi Lite yang lebih “murah” hanya 3 jutaan saja. Ponsel ini memiliki desain yang tipis, bobot yang ringan, dan juga stylish dengan ketebalan 1.7mm yang nyaman saat digenggam. Dengan kamera yang memiliki model Dazzling Halo Ring, tiga lensa di belakang bodi ponsel ditempatkan secara bertingkat yang warnanya menyatu dengan bodi handphone. Meskipun versi Lite, ponsel ini ditenagai chipset kelas menengah Snapdragon 732G dengan pilihan RAM 6 GB dan 8 GB yang nyaman dipakai sehari-hari.</item>
+        <item>Xiaomi Redmi Note 10 memiliki variasi warna Lake Green, Onyx Gray, dan Pebble White yang sederhana namun berkelas layaknya HP dengan banderol yang mahal. Ponsel ini dibekali dengan Snapdragon 678 dengan clock CPU yang lebih tinggi dari Snapdragon 675, sehingga membuat kinerjanya lebih lancar saat kemampuan multitasking. Hanya dengan dua jutaan, kamu akan memiliki ponsel dengan baterai berkapasitas jumbo 5.000 mAh dengan teknologi fast charging. Dilengkapi ruang penyimpanan lega hingga 128 GB.</item>
+        <item>Xiaomi Redmi Note 10S bagaikan pengisi celah handphone ramah di kantong yang hadir di atas harga Note 10 dan lebih murah dari Note 10 Pro. Meskipun bandrol harganya berbeda tipis, ponsel ini memiliki beberapa peningkatan signifikan dari Note 10 yang layak untuk dipertimbangkan. Seperti peningkatan kamera belakang 64 MP dan pilihan RAM yang tersedia hingga 8 GB. Selain itu, ponsel ini memakai chipset Mediatek Helio G95 yang mumpuni bahkan untuk bermain game.</item>
+        <item>Jika kamu mencari ponsel murah namun memiliki spesifikasi kelas atas, Xiaomi Redmi Note 10 adalah jawabannya. Dengan mengusung nama “Pro”, ponsel ini memiliki layar Super AMOLED 120 Hz, dan touch sampling 240 Hz yang memiliki respons cepat saat disentuh. Dari segi kamera, Redmi Note 10 Pro dilengkapi dengan kamera 108MP yang memiliki kontras yang baik, pewarnaan yang bagus, dan tingkat ketajamannya bisa diandalkan.</item>
+        <item>Poco X3 Pro merupakan handphone gaming yang dilengkapi dengan chipset Snapdragon 860 yang merupakan prosesor flagship 4G terdepan di tahun 2021 dengan bandrol harga 3 jutaan saja. Baterai berkapasitas besar 5160 mAh dengan fitur fast charging akan melakukan pengisian daya hingga penuh hanya dalam waktu 59 menit. Poco X3 Pro ini sangat ditunggu-tunggu oleh para gamers karena spesifikasinya yang tinggi dengan RAM yang besar dan ruang penyimpanan yang luas. Kameranya pun tak kalah baik, karena mengusung quad camera 48 MP.</item>
+        <item>Samsung Galaxy M12 merupakan ponsel kelas entri yang memiliki rasa kelas mid range bahkan flagship berkat spesifikasinya yang unggul dengan menggunakan Samsung Exynos 850. Dukungan refresh rate 90 Hz dalam ponsel ini cukup mengejutkan karena hadir pada smartphone satu jutaan. Refresh rate dapat disesuaikan dengan konten yang ditampilkan secara adaptive sehingga bisa menghemat baterai. Selain itu, ponsel ini sudah memakai sistem Android 11 yang memiliki tampilan One UI Core versi 3,1 dengan fitur-fitur Game Launcher, Dual Messenger atau multi window. Sangat menarik, bukan?</item>
+        <item>Untuk kamu yang mencari handphone murah dengan spesifikasi andal untuk bermain game, Samsung Galaxy A32 adalah jawabannya. Ponsel ini ditenagai oleh chipset Helio G80 dengan kecepatan 2,0 gigahertz (Hz) yang sangat baik secara performa. Fitur Game Booster juga akan membuat grafis lebih smooth dan mengoptimasi baterai. Dengan kapasitas baterai yang besar, kamu bisa memakai ponsel ini dengan nyaman seharian. Tak hanya itu, Galaxy A32 dilengkapi quad camera 64 MP dengan resolusi yang tajam dan pewarnaan yang baik.</item>
+    </string-array>
+
+    <string-array name="data_specification">
+        <item>Chipset: MediaTek Helio G35 (12 nm) \nProsesor: Octa-core (4×2.3 GHz Cortex-A53 &amp; 4×1.8 GHz Cortex-A53) \nRAM: 4GB \nLayar: IPS LCD, 400 nits (typ) \nInternal Storage: 64 GB \nExternal Storage: microSDXC \nKamera Belakang: 13 MP, (f/2.2, wide) + 2 MP, (f/2.4, macro) + 2 MP, (f/2.4, depth) \nKamera Depan: 5 MP, (f/2.2, wide) \nBaterai: Li-Po 5000 mAh \nSistem Operasi: Android 10, MIUI 12</item>
+        <item>Chipset: Qualcomm SM6115 Snapdragon 662 (11 nm) \nProsesor: Octa-core (4×2.0 GHz Kryo 260 Gold &amp; 4×1.8 GHz Kryo 260 Silver) \nRAM: 6 GB \nLayar: IPS LCD, 400 nits (typ) \nInternal Storage: 128 GB \nExternal Storage: microSDXC \nKamera Belakang: 48 MP, f/1.8, (wide) + 2 MP, f/2.4, (macro) + 2 MP, f/2.4, (depth) \nKamera Depan: 8 MP, f/2.1, (wide) \nBaterai: Li-Po 6000 mAh \nSistem Operasi: Android 10, MIUI 12</item>
+        <item>Chipset: Qualcomm SM6115 Snapdragon 662 (11 nm) \nProsesor: Octa-core (4×2.0 GHz Kryo 260 Gold &amp; 4×1.8 GHz Kryo 260 Silver) \nRAM: 6 GB \nLayar: IPS LCD, 400 nits (typ) \nInternal Storage: 128 GB \nExternal Storage: microSDXC \nKamera Belakang: 48 MP, f/1.8, 26mm (wide) + 8 MP, f/2.2, 120˚ (ultrawide) + 2 MP + 2 MP, f/2.4, (depth) \nKamera Depan: 8 MP, f/2.1, 27mm (wide) \nBaterai: Li-Po 6000 mAh \nSistem Operasi: Android 10, MIUI 12</item>
+        <item>Chipset: Qualcomm SM7150 Snapdragon 732G (8 nm) \nProsesor: Octa-core (2×2.3 GHz Kryo 470 Gold &amp; 6×1.8 GHz Kryo 470 Silver) \nRAM: 6 GB, 8 GB \nLayar: AMOLED 6.55 inci, 1080 x 2400 piksel \nInternal Storage: 128 GB \nExternal Storage: microSDXC \nKamera Belakang: 64 MP (f/1.8, wide, PDAF) + 8 MP (f/2.2, ultrawide) + 5 MP (f/2.4, macro, AF) \nKamera Depan: 16 MP (f/2.5, wide) \nBaterai: 4250 mAh (Fast charging 33W) \nSistem Operasi: Android 11, MIUI 12</item>
+        <item>Chipset: Qualcomm SDM678 Snapdragon 678 (11 nm) \nProsesor: Octa-core (2×2.2 GHz Kryo 460 Gold &amp; 6×1.7 GHz Kryo 460 Silver) \nRAM: 4 GB, 6 GB \nLayar: Super AMOLED 6.43 inci, 1080 x 2400 piksel \nInternal Storage: 128 GB \nExternal Storage: microSDXC \nKamera Belakang: 48 MP (f/1.8, wide, PDAF) + 8 MP (f/2.2, ultrawide) + 2 MP (f/2.4, macro) + 2 MP (f/2.4, depth) \nKamera Depan: 13 MP (f/2.5, wide) \nBaterai: 5000 mAh (Fast charging 33W) \nSistem Operasi: Android 11, MIUI 12</item>
+        <item>Chipset: Mediatek Helio G95 (12 nm) \nProsesor: Octa-core (2×2.05 GHz Cortex-A76 &amp; 6×2.0 GHz Cortex-A55) \nRAM: 6 GB, 8 GB \nLayar: AMOLED 6.43 inci, 1080 x 2400 piksel \nInternal Storage: 128 GB \nExternal Storage: microSDXC \nKamera Belakang: 64 MP (f/1.8, wide, PDAF) + 8 MP (f/2.2, ultrawide) + 2 MP (f/2.4, macro) + 2 MP (f/2.4, depth) \nKamera Depan: 13 MP (f/2.5, wide) \nBaterai: 5000 mAh (Fast charging 33W) \nSistem Operasi: Android 11, MIUI 12.5</item>
+        <item>Chipset: Qualcomm SM7150 Snapdragon 732G (8 nm) \nProsesor: Octa-core (2×2.3 GHz Kryo 470 Gold &amp; 6×1.8 GHz Kryo 470 Silver) \nRAM: 6 GB, 8 GB \nLayar: AMOLED 6.67 inci, 1080 x 2400 piksel \nInternal Storage: 128 GB \nExternal Storage: microSDXC \nKamera Belakang: 108 MP (f/1.9, wide, dual pixel PDAF) + 8 MP (f/2.2, ultrawide) + 5 MP (f/2.4, macro, AF) + 2 MP (f/2.4, depth) \nKamera Depan: 16 MP (f/2.5, wide) \nBaterai: 5020 mAh (Fast charging 33W) \nSistem Operasi: Android 11, MIUI 12</item>
+        <item>Chipset: Qualcomm Snapdragon 860 (7 nm) \nProsesor: Octa-core (1×2.96 GHz Kryo 485 Gold &amp; 3×2.42 GHz Kryo 485 Gold &amp; 4×1.78 GHz Kryo 485 Silver) \nRAM: 8 GB \nLayar: IPS LCD 6.67 inci, 1080 x 2400 piksel \nInternal Storage: 128 GB, 256 GB \nExternal Storage: microSDXC \nKamera Belakang: 48 MP (f/1.8, wide, PDAF) + 8 MP (f/2.2, ultrawide) + 2 MP (f/2.4, macro) + 2 MP (f/2.4, depth) \nKamera Depan: 20 MP (f/2.2, wide) \nBaterai: 5160 mAh (Fast charging 33W) \nSistem Operasi: Android 11, MIUI 12 for POCO</item>
+        <item>Chipset: Samsung Exynos 850 (8nm) \nProsesor: Octa-core (4×2,0 GHz Cortex-A55 &amp; 4×2,0 GHz Cortex-A55) \nRAM: 3 GB atau 4 GB \nLayar: PLS IPS, 720 x 1.600 piksel (90Hz) \nInternal Storage: 32 GB atau 64 GB \nExternal Storage: microSDXC \nKamera Belakang: 48 MP (f/2.0, wide, PDAF) + 5 MP (f/2.2, ultrawide) + 2 MP (f/2.4, makro) + 2 MP (f/2.4, depth) \nKamera Depan: 8 MP (f/2.2, wide) \nBaterai: 5.000 mAh (fast charging 15W) \nSistem Operasi: Android 11, One UI Core 3.1</item>
+        <item>Chipset: Mediatek Helio G80 (12 nm) \nProsesor: Octa-core (2×2.0 GHz Cortex-A75 &amp; 6×1.8 GHz Cortex-A55) \nRAM: 4 GB atau 6 GB \nLayar: Super AMOLED 6.4 inci, 1080 x 2400 piksel \nInternal Storage: 128 GB \nExternal Storage: microSDXC (dedicated slot) \nKamera Belakang: 64 MP (f/1.8, wide, PDAF) + 8 MP (f/2.2, ultrawide) + 5 MP (f/2.4, macro) + 5 MP (f/2.4, depth) \nKamera Depan: 20 MP (f/2.2, wide) \nBaterai: 5000 mAh (Fast charging 15W) \nSistem Operasi: Android 11, One UI 3.1</item>
+    </string-array>
+
+    <integer-array name="data_image">
+        <item>@drawable/xiaomi_redmi_9c</item>
+        <item>@drawable/xiaomi_poco_m3</item>
+        <item>@drawable/xiaomi_redmi_9t</item>
+        <item>@drawable/xiaomi_mi_11_lite</item>
+        <item>@drawable/xiaomi_redmi_note_10</item>
+        <item>@drawable/xiaomi_redmi_note_10s</item>
+        <item>@drawable/xiaomi_redmi_note_10_pro</item>
+        <item>@drawable/xiaomi_poco_x3_pro</item>
+        <item>@drawable/samsung_galaxy_m12</item>
+        <item>@drawable/samsung_galaxy_a32</item>
+    </integer-array>
+
+    <string-array name="data_link">
+        <item>https://www.tokopedia.com/find/redmi-9c</item>
+        <item>https://www.tokopedia.com/find/xiaomi-poco-m3</item>
+        <item>https://www.tokopedia.com/find/redmi-9t</item>
+        <item>https://www.tokopedia.com/find/mi-11-lite</item>
+        <item>https://www.tokopedia.com/find/redmi-note-10</item>
+        <item>https://www.tokopedia.com/find/redmi-note-10s</item>
+        <item>https://www.tokopedia.com/find/redmi-note-10-pro</item>
+        <item>https://www.tokopedia.com/find/poco-x3-pro</item>
+        <item>https://www.tokopedia.com/find/samsung-galaxy-m12</item>
+        <item>https://www.tokopedia.com/find/samsung-galaxy-a32</item>
+    </string-array>
+</resources>
